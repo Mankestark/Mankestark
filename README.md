@@ -15,11 +15,7 @@ Estudiante de 42 Málaga Fundación Telefónica
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mankestark&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mankestark&icon=4&color=3)](https://visitcount.itsvg.in)
