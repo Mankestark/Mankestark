@@ -1,7 +1,7 @@
 # Hola, soy Manuel! 😊
 
 <p align="center">
-  <img src="https://github.com/Mankestark/Mankestark/blob/master/banner/A%C3%B1adir%20un%20poco%20de%20texto.png?raw=true" alt="Ciberseguridad">
+  <img src="https://github.com/Mankestark/Mankestark/blob/master/banner/banner.png" alt="Ciberseguridad" height = 400 widgth = 900>
 </p>
 
 ## Acerca de mí
